@@ -1,4 +1,4 @@
-# Summary
+# My Github Wrapped 
 
 ## _Ahoy_, My Names Charleen Lozi, Heres my programming treasure trove.
 
@@ -21,7 +21,11 @@
 
 
 
-### [The Birth Of ARIA](https://medium.com/@clozymwangs/birth-of-aria-94aa9602b7df)
+### Cool gists
+
+_Read_ :  [The Birth Of ARIA](https://medium.com/@clozymwangs/birth-of-aria-94aa9602b7df)
+
+- A Malarial medical diagnostic AI tool.
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=0f48bdd5957d385b69fe92d7ed212278)](https://gist.github.com/CLozy/b0f48bdd5957d385b69fe92d7ed212278/)
 
