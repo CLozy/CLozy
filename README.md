@@ -6,9 +6,9 @@
 
 
 #github stats card
-[![CLozy's GitHub stats](https://github-readme-stats.vercel.app/api?username=clozy&show_icons=true&theme=cobalt)](https://github.com/clozy/github-readme-stats)
+[![CLozy's GitHub stats](https://github-readme-stats.vercel.app/api?username=clozy&show_icons=true&theme=dark)](https://github.com/clozy/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 
 - 📫 How to reach me: ...
 
