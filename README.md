@@ -1,6 +1,6 @@
-## Summary
+# Summary
 
-### _Ahoy_, My Names Charleen Lozi, Heres my programming treasure trove.
+## _Ahoy_, My Names Charleen Lozi, Heres my programming treasure trove.
 
 
 - 🔭 I’m currently working on Autonomous AI Agents
