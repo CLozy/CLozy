@@ -17,9 +17,9 @@
 
 ### My wakatime stats
 
-[![CLozy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clozy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![CLozy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CLozy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=clozy&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
 ### Cool gists
 
