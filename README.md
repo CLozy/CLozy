@@ -1,6 +1,6 @@
 # My Github Wrapped 
 
-## _Ahoy_, My Names Charleen Lozi, heres how i code.
+## Hi, My Names Charleen Lozi, heres how i code.
 
 
 - 🔭 I’m currently working on Autonomous AI Agents
