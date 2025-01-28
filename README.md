@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m currently working on Autonomous AI Agents
-- 📫 How to reach me: ... clozymwangs@gmail.com 
 
 
 <a href="https://github.com/clozy/github-readme-stats">
