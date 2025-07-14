@@ -14,8 +14,6 @@
 </a>
 
 
-### My wakatime stats
-
 [![CLozy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CLozy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
