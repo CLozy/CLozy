@@ -7,8 +7,8 @@
 
 
 <a href="https://github.com/clozy/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=clozy&layout=compact" />
-</a>
+<!--   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=clozy&layout=compact" /> -->
+<!-- </a> -->
 <a href="https://github.com/clozy/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clozy&layout=compact&langs_count=8&card_width=320" />
 </a>
