@@ -1,6 +1,6 @@
 # My Github Wrapped 
 
-### Hi, heres how i code.
+### Hi.🚀
 
 
 - 🔭 I’m currently working on Autonomous AI Agents
